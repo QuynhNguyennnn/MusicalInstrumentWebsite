@@ -12,3 +12,17 @@ D:\Study\InSchool\SU23\PRN221\Project\Project_PRN221\BusinessObject\obj\Debug\ne
 D:\Study\InSchool\SU23\PRN221\Project\Project_PRN221\BusinessObject\obj\Debug\net6.0\ref\BusinessObject.dll
 D:\Study\InSchool\SU23\PRN221\Project\Project_PRN221\BusinessObject\bin\Debug\net6.0\BusinessObject.runtimeconfig.json
 D:\Study\InSchool\SU23\PRN221\Project\Project_PRN221\BusinessObject\obj\Debug\net6.0\BusinessObject.genruntimeconfig.cache
+D:\GoGlobal\2023-Semester-7\PRN221\HighShopProject\BusinessObject\bin\Debug\net6.0\BusinessObject.deps.json
+D:\GoGlobal\2023-Semester-7\PRN221\HighShopProject\BusinessObject\bin\Debug\net6.0\BusinessObject.runtimeconfig.json
+D:\GoGlobal\2023-Semester-7\PRN221\HighShopProject\BusinessObject\bin\Debug\net6.0\BusinessObject.dll
+D:\GoGlobal\2023-Semester-7\PRN221\HighShopProject\BusinessObject\bin\Debug\net6.0\BusinessObject.pdb
+D:\GoGlobal\2023-Semester-7\PRN221\HighShopProject\BusinessObject\obj\Debug\net6.0\BusinessObject.csproj.AssemblyReference.cache
+D:\GoGlobal\2023-Semester-7\PRN221\HighShopProject\BusinessObject\obj\Debug\net6.0\BusinessObject.GeneratedMSBuildEditorConfig.editorconfig
+D:\GoGlobal\2023-Semester-7\PRN221\HighShopProject\BusinessObject\obj\Debug\net6.0\BusinessObject.AssemblyInfoInputs.cache
+D:\GoGlobal\2023-Semester-7\PRN221\HighShopProject\BusinessObject\obj\Debug\net6.0\BusinessObject.AssemblyInfo.cs
+D:\GoGlobal\2023-Semester-7\PRN221\HighShopProject\BusinessObject\obj\Debug\net6.0\BusinessObject.csproj.CoreCompileInputs.cache
+D:\GoGlobal\2023-Semester-7\PRN221\HighShopProject\BusinessObject\obj\Debug\net6.0\BusinessObject.dll
+D:\GoGlobal\2023-Semester-7\PRN221\HighShopProject\BusinessObject\obj\Debug\net6.0\refint\BusinessObject.dll
+D:\GoGlobal\2023-Semester-7\PRN221\HighShopProject\BusinessObject\obj\Debug\net6.0\BusinessObject.pdb
+D:\GoGlobal\2023-Semester-7\PRN221\HighShopProject\BusinessObject\obj\Debug\net6.0\BusinessObject.genruntimeconfig.cache
+D:\GoGlobal\2023-Semester-7\PRN221\HighShopProject\BusinessObject\obj\Debug\net6.0\ref\BusinessObject.dll
