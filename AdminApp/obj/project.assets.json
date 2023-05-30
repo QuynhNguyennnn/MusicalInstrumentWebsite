@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\DELL\\.nuget\\packages\\": {}
+    "C:\\Users\\ASUS\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\SU23\\PRN221\\Project_PRN221\\Project_PRN221\\AdminApp\\AdminApp.csproj",
+      "projectUniqueName": "D:\\Study\\InSchool\\SU23\\PRN221\\Project\\Project_PRN221\\PRN221---Group-2---.Net\\AdminApp\\AdminApp.csproj",
       "projectName": "AdminApp",
-      "projectPath": "D:\\SU23\\PRN221\\Project_PRN221\\Project_PRN221\\AdminApp\\AdminApp.csproj",
-      "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-      "outputPath": "D:\\SU23\\PRN221\\Project_PRN221\\Project_PRN221\\AdminApp\\obj\\",
+      "projectPath": "D:\\Study\\InSchool\\SU23\\PRN221\\Project\\Project_PRN221\\PRN221---Group-2---.Net\\AdminApp\\AdminApp.csproj",
+      "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
+      "outputPath": "D:\\Study\\InSchool\\SU23\\PRN221\\Project\\Project_PRN221\\PRN221---Group-2---.Net\\AdminApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -28,7 +28,6 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\sdk\\7.0.302\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -65,7 +64,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
       }
     }
   }
